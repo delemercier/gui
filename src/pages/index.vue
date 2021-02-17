@@ -21,7 +21,7 @@ const { t } = useI18n()
     </p>
     <p>
       <a rel="noreferrer" href="https://github.com/antfu/vitesse" target="_blank">
-        Vitesse !!!!!
+        Vitesse !!!!! Vers l'infini et l'au delà
       </a>
     </p>
     <p>
